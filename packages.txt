@@ -1,2 +1,6 @@
-# System dependencies for Streamlit Cloud
+# System packages required for deployment
+# This file is used by Streamlit Cloud to install system dependencies
+
+# Required for PDF processing
 poppler-utils
+
